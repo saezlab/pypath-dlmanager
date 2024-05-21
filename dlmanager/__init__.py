@@ -8,9 +8,4 @@ __version__ = "0.0.1"
 __email__ = "turei.denes@gmail.com"
 
 
-def twentythree():
-    """
-    The number 23.
-    """
-
-    return 23
+from .._pooch import Downloader
