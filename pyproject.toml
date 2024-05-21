@@ -28,6 +28,7 @@ readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = ">=3.7"
+pooch = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 pytest = ">=6.0"
